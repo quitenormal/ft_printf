@@ -1,0 +1,7 @@
+main.c
+*.class
+*.dll
+*.exe
+*.out
+*.so
+*.o
